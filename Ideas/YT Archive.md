@@ -1,0 +1,4 @@
+- every file that you upload gets uploaded to YT as a vide
+- quality is not diminished cause YT stores it in highest quality
+- searching for files needs to be taken care of
+- 

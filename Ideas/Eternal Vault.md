@@ -1,0 +1,6 @@
+- When your loved ones need access to important documents and accounts, they'll have clear instructions, verified contacts, and immediate access to everything you've prepared for them, all without the stress of guessing or searching.
+- we add family email and phone number and on the app they will have access the documents that you have shared with them.
+- and they can download and use whenever they want.
+- we can share documents on basis of three trust level layers
+- 1 being shareable documents and 3 being most important documents
+- every month you have to record a heartbeat that you are alive if heartbeat if not recorded for 2 months all the documents will be shared with the family.

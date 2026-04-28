@@ -1,0 +1,2 @@
+- An expense tracker app which analyses all of my UP transactions and makes it catgorises it and tells me how much I have spent on what
+- Take access of user messages and give them a weekly report 

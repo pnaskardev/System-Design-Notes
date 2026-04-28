@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "d2400e6ff6ef9773",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c86f8bd1ad5a3ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104b08eac3d636f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebRTC/WebRTC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WebRTC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e13f34efd1a3900",
+    "type": "split",
+    "children": [
+      {
+        "id": "919b6c85123548f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "089426d4440b71c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af3f06b268eb6324",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a8a6e06b3a58dcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 478.5078125
+  },
+  "right": {
+    "id": "e7fa5a633a1ffdc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6beb3ff7ca281a6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5779c2ebc7a9d1b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9b6d9c53f0f592ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tech blogs that I have read OR I plan to write articles on them.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tech blogs that I have read OR I plan to write articles on them"
+            }
+          },
+          {
+            "id": "e424de31ba90dcbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49bea28ee7a23a0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ee3cba85c89429b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "089426d4440b71c6",
+  "lastOpenFiles": [
+    "Normalisation/Pasted image 20251227111547.png",
+    "Normalisation/Pasted image 20251227111520.png",
+    "Normalisation/Pasted image 20251227105826.png",
+    "Normalisation/Pasted image 20251227105803.png",
+    "Normalisation/Pasted image 20251227105740.png",
+    "Normalisation/Pasted image 20251227104246.png",
+    "Normalisation/Pasted image 20251227103845.png",
+    "Normalisation/Pasted image 20251227103253.png",
+    "Normalisation/Pasted image 20251227103231.png",
+    "Normalisation/Pasted image 20251227103154.png",
+    "Normalisation/Pasted image 20251227103131.png",
+    "Normalisation/Normalisation.md",
+    "Normalisation",
+    "Indexing in Postgres/Indexing in Postgres.md",
+    "Indexing in Postgres",
+    "SystemDesign",
+    "SystemDesign/Normalisation/Normalisation.md",
+    "WebRTC/WebRTC.md",
+    "WebRTC",
+    "SystemDesign/Indexing in Postgres",
+    "SystemDesign/Indexing in Postgres/Indexing in Postgres.md",
+    "Tech Blogs/Normalization.md",
+    "SystemDesign/Normalisation",
+    "Sikkim Trip/Sikkim Trip Itenrary.md",
+    "Sikkim Trip",
+    "Ideas/Expense tracker App.md",
+    "Tech Blogs/Tech blogs that I have read OR I plan to write articles on them.md",
+    "Ideas/YT Archive.md",
+    "Ideas/Whatsapp Bot for printing so that it can be made self printing kiosks [NOT THAT USEFUl].md",
+    "Ideas/Recall Code.md",
+    "Ideas/Eternal Vault.md",
+    "Tech Blogs/How SHAZAM works.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "2026-02-10.md",
+    "Indexing in Postgres.md",
+    "Ideas",
+    "Tech blogs that I have read OR I plan to write articles on them.md",
+    "Normalization.md",
+    "Intro to Redis pub - subs and Messaging Queues.md",
+    "How to create Docker local, dev, prod environment in your repository.md",
+    "How SHAZAM works.md",
+    "How does Uber or Ola manage to match drivers nearby without exploding the Database.md",
+    "Docker Compose Watch with NodeJS and Express and why is it better than Build Mounts.md",
+    "Tech Blogs"
+  ]
+}

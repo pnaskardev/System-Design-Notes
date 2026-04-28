@@ -1,0 +1,17 @@
+- ## Idea
+	- Every day we scrape the users data from leetcode we have the data stored in a SQL database
+		- it will have a lot of analytics 
+	- We will be creating an AI agent which basically goes through the stored data and it does some analysis on them 
+		- An AI agent will be created whose whole criteria and job is to create suggestion cards for the user.
+		- these suggestion cards will be stored in the database user wise 
+		- and these suggestion cards will be sent to the user daily.
+	- We need to get leetcode problems based on the suggested cards??
+		- based on the daily suggested cards we need the topic of that day 
+		- based on that topic and users average rating on leetcode 
+		- we take out 4 questions (It can vary) which will be of 200 rating upwards and 200 rating downwards of the users average rating and related to users daily suggested flashcard (fetched from the leetcode API only).
+	
+- ## Frontend
+	- It will be a Discord Bot
+- ## Backend Section
+	- Backend will be on golang and Database is ofc Postgres
+- ## AI Agent Section

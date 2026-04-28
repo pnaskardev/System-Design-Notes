@@ -1,0 +1,6 @@
+- [x] [[What is ReCaptcha and why is it used]]
+- [ ] [[Indexing in Postgres]]
+- [ ] [[Normalization]]
+- [ ] [[Intro to Redis pub - subs and Messaging Queues]]
+- [ ] How to build a system like Leetcode with Redis and GoLang
+- [ ] What are Docker Layers and how to optimise Docker files for faster builds 
