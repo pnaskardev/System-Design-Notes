@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5078125
+    "width": 260.5078125
   },
   "right": {
     "id": "e7fa5a633a1ffdc3",
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech blogs that I have read OR I plan to write articles on them.md",
+                "file": "WebRTC/WebRTC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tech blogs that I have read OR I plan to write articles on them"
+              "title": "Outgoing links from WebRTC"
             }
           },
           {
@@ -127,7 +127,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -138,9 +140,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "WebRTC/WebRTC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of WebRTC"
             }
           },
           {
@@ -172,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "089426d4440b71c6",
+  "active": "ee3cba85c89429b1",
   "lastOpenFiles": [
     "Normalisation/Pasted image 20251227111547.png",
     "Normalisation/Pasted image 20251227111520.png",
