@@ -9,3 +9,6 @@
 - You do need a central server for signalling and sometimes for sending media as well (turn)
 
 ![[Pasted image 20260428230152.png]]
+
+
+EDIT
