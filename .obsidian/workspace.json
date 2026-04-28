@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c86f8bd1ad5a3ba",
+        "id": "d8ab6bebde1f0fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "104b08eac3d636f9",
+            "id": "8deae18e9c5a6026",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebRTC/WebRTC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WebRTC"
+              "title": "New tab"
             }
           }
         ]
@@ -179,26 +175,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee3cba85c89429b1",
+  "active": "089426d4440b71c6",
   "lastOpenFiles": [
+    "gRPC",
+    "WebRTC/Pasted image 20260429001539.png",
+    "WebRTC/Pasted image 20260429001516.png",
+    "Tech Blogs/Intro to Redis pub - subs and Messaging Queues.md",
+    "WebRTC/WebRTC.md",
+    "WebRTC/Pasted image 20260428234800.png",
+    "WebRTC/Pasted image 20260428234014.png",
+    "WebRTC/Pasted image 20260428233955.png",
+    "WebRTC/Pasted image 20260428233500.png",
     "Normalisation/Pasted image 20251227111547.png",
     "Normalisation/Pasted image 20251227111520.png",
     "Normalisation/Pasted image 20251227105826.png",
     "Normalisation/Pasted image 20251227105803.png",
-    "Normalisation/Pasted image 20251227105740.png",
-    "Normalisation/Pasted image 20251227104246.png",
-    "Normalisation/Pasted image 20251227103845.png",
-    "Normalisation/Pasted image 20251227103253.png",
-    "Normalisation/Pasted image 20251227103231.png",
-    "Normalisation/Pasted image 20251227103154.png",
-    "Normalisation/Pasted image 20251227103131.png",
     "Normalisation/Normalisation.md",
     "Normalisation",
     "Indexing in Postgres/Indexing in Postgres.md",
     "Indexing in Postgres",
     "SystemDesign",
     "SystemDesign/Normalisation/Normalisation.md",
-    "WebRTC/WebRTC.md",
     "WebRTC",
     "SystemDesign/Indexing in Postgres",
     "SystemDesign/Indexing in Postgres/Indexing in Postgres.md",
@@ -225,7 +222,6 @@
     "How to create Docker local, dev, prod environment in your repository.md",
     "How SHAZAM works.md",
     "How does Uber or Ola manage to match drivers nearby without exploding the Database.md",
-    "Docker Compose Watch with NodeJS and Express and why is it better than Build Mounts.md",
     "Tech Blogs"
   ]
 }
