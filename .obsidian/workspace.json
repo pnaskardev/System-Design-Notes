@@ -108,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebRTC/WebRTC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WebRTC"
+              "title": "Outgoing links"
             }
           },
           {
@@ -137,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebRTC/WebRTC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WebRTC"
+              "title": "Outline"
             }
           },
           {
@@ -175,13 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "089426d4440b71c6",
+  "active": "ee3cba85c89429b1",
   "lastOpenFiles": [
+    "WebRTC/WebRTC.md",
     "gRPC",
     "WebRTC/Pasted image 20260429001539.png",
     "WebRTC/Pasted image 20260429001516.png",
     "Tech Blogs/Intro to Redis pub - subs and Messaging Queues.md",
-    "WebRTC/WebRTC.md",
     "WebRTC/Pasted image 20260428234800.png",
     "WebRTC/Pasted image 20260428234014.png",
     "WebRTC/Pasted image 20260428233955.png",
